@@ -1,0 +1,17 @@
+{
+    "name": "botlassium",
+    "version": "1.0",
+    "main": "index.js",
+    "private": true,
+    "engines": {
+      "node": ">=10"
+    },
+    "author": {
+      "name": "iRebel",
+      "email": "rebelplume@gmail.com"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/RebelCraft19/BotLassium.git"
+    }
+}
